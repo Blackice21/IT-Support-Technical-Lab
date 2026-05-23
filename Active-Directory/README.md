@@ -7,4 +7,4 @@ This folder contains the visual proof, configuration steps, and administration t
 * **Password Management:** Performed manual password resets and unlocked simulated user accounts.
 * **Security Groups:** Created and managed security groups to control access to resources.
 * ![Active Directory Users](virtualbox_machine_setup.png)
-* ![Active Directory Users](windowsserver_2022_screenshot.png)
+* ![Active Directory Users](windowsserver_2022_sceenshot.png)
