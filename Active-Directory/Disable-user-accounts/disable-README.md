@@ -15,14 +15,13 @@ The HR department submits a termination ticket for an employee, or the Security 
 4. A confirmation dialog box will appear stating *"Object [User] has been disabled."*
 
 <img src="./disable-account.png" width="700">  
-<!-- Replace disable-account.png with your screenshot filename -->
+
 
 ### 2. Verify Account Status
 1. Check the user icon in ADUC. A **small black downward-pointing arrow** will now appear over the user icon, indicating the account is inactive.
 2. Under the user's **Properties > Account** tab, the option *"Account is disabled"* will now be checked.
 
 <img src="./disabled-status.png" width="700">  
-<!-- Replace disabled-status.png with your screenshot filename -->
 
 ## Security Best Practices Demonstrated
 * **Immediate Revocation:** Prevented further interactive logons to the corporate domain.
