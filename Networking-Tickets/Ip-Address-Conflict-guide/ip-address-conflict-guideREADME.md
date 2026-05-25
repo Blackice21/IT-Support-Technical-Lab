@@ -4,7 +4,7 @@ A step-by-step IT support workflow for troubleshooting the issue:
 
 > **"IP address conflict detected."**  
 > or  
-> **I get this message saying "Another device on the network is using the same IP address." I need help.**
+> **Another device on the network is using the same IP address.**
 
 This guide covers how IT support would diagnose and fix an IP address conflict on a local network.
 
@@ -16,7 +16,7 @@ This guide covers how IT support would diagnose and fix an IP address conflict o
 
 ```text
 User reports:
-"IP address conflict"
+"I get this message saying "Another device on the network is using the same IP address." I need help."
 ```
 
 Common symptoms include:
