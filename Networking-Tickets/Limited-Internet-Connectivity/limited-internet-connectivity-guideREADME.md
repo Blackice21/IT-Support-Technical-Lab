@@ -4,7 +4,7 @@ A step-by-step IT support workflow for troubleshooting the issue:
 
 > **"Limited internet connectivity."**  
 > or  
-> **"my internet isn't working. it says limited connectivity please fix."**
+> **"Connected, but internet access is limited."**
 
 This guide covers how IT support would diagnose a machine that appears connected to the network, but has partial or unstable internet access.
 
@@ -16,7 +16,7 @@ This guide covers how IT support would diagnose a machine that appears connected
 
 ```text
 User reports:
-"Limited internet connectivity"
+"my internet isn't working. it says limited connectivity please fix"
 ```
 
 Common symptoms include:
