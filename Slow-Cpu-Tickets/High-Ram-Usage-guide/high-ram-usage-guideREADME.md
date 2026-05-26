@@ -16,7 +16,7 @@ This guide covers how IT support would diagnose and fix high memory usage in Win
 
 ```text
 User reports:
-"Computer is running slow"
+"Computer is running slow and my apps keep freezing"
 or
 "Memory is at 100%"
 ```
