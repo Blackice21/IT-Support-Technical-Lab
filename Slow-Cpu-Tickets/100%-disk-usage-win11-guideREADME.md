@@ -18,7 +18,7 @@ This guide covers how IT support would diagnose and fix high disk usage in Windo
 User reports:
 "Computer is very slow"
 or
-"Task Manager shows Disk at 100%"
+"my apps freeze. computer is really slow."
 ```
 
 Common symptoms include:
