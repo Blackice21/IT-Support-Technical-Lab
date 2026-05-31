@@ -69,7 +69,7 @@ You will typically see two options:
 
 * Auto-generate a password
 * Create password manually
-
+<img src="./password_reset.png" width="700">
 ---
 
 ### 5. Require Password Change at Next Sign-In
