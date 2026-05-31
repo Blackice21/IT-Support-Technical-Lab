@@ -1,5 +1,5 @@
 # Microsoft 365 Troubleshooting
-
+<img src="./welcome_page.png" width="700">
 ## Overview
 
 This folder contains practical Microsoft 365 help desk troubleshooting guides based on common support requests technicians handle in day-to-day IT environments.
