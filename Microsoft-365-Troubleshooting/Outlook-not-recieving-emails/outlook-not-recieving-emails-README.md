@@ -122,7 +122,7 @@ Disable suspicious rules and test again.
 ---
 
 ## 6. Check Junk, Archive, and Other Folders
-
+<img src="./sent-mail.png" width="700">
 Review:
 
 * Inbox
