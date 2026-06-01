@@ -66,7 +66,7 @@ If **Block sign-in** is enabled:
 
 * Toggle **Block sign-in** to **Off**
 * Select **Save changes**
-
+<img src="./blocked-signin.png" width="700">
 The user should now be able to attempt sign-in again.
 
 ---
