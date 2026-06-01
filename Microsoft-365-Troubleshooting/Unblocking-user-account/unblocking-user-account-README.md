@@ -1,5 +1,5 @@
 # Unblocking a User Account in Microsoft 365
-
+<img src="./blocked-signin.png" width="700">
 ## Overview
 
 This guide walks through how to unblock a user account in Microsoft 365 after the user is unable to sign in.
@@ -62,7 +62,7 @@ Locate:
 
 ### 4. Unblock the User
 
-If **Block sign-in** is enabled:
+If **Block sign-in** is enabled, meaning you see **Unblock sign-in**:
 
 * Toggle **Block sign-in** to **Off**
 * Select **Save changes**
