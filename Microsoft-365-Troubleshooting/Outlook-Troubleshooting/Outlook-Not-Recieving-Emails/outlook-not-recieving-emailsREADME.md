@@ -1,5 +1,5 @@
 # Troubleshooting Outlook Not Receiving Emails
-
+<img src="./sent-mail.png" width="700">
 ## Overview
 
 This guide walks through how to troubleshoot a common Microsoft 365 help desk ticket where a user reports that Outlook is not receiving new emails.
@@ -122,7 +122,7 @@ Disable suspicious rules and test again.
 ---
 
 ## 6. Check Junk, Archive, and Other Folders
-
+<img src="./user-wrong-folder.png" width="700">
 Review:
 
 * Inbox
