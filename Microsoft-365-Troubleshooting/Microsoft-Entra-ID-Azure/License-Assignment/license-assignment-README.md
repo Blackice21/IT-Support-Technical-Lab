@@ -1,6 +1,6 @@
 
 # License Assignment in Microsoft Entra ID - Troubleshooting Guide
-
+<img src="./licenses.png" width="700">
 ## Overview
 
 This guide documents the process of troubleshooting and resolving Microsoft 365 license assignment issues within Microsoft Entra ID.
