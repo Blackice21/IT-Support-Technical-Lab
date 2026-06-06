@@ -220,43 +220,6 @@ After refreshing authentication tokens, Outlook successfully connected to Exchan
 
 ---
 
-# Lab Reproduction Scenario
-
-This issue can be recreated in a Microsoft 365 lab environment.
-
-### Setup
-
-1. Create a test user.
-2. Assign a Microsoft 365 license.
-3. Enable MFA.
-4. Configure Outlook using the test account.
-
-### Trigger the Issue
-
-In Microsoft 365 Admin Center:
-
-```text
-Users → Active Users → Test User
-```
-
-Perform:
-
-```text
-Reset Password
-```
-
-and
-
-```text
-Sign Out of All Sessions
-```
-
-Without clearing Credential Manager, reopen Outlook.
-
-The Outlook client may repeatedly request credentials and MFA approval, recreating the support ticket scenario.
-
----
-
 # Skills Demonstrated
 
 * User Interviewing and Ticket Intake
