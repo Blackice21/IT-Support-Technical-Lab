@@ -1,5 +1,5 @@
 # MFA Reset in Microsoft Entra ID - Troubleshooting Guide
-<img src="./mfa-phone-auth2.png" width="700">
+<img src="./mfa-phone-authe.png" width="700">
 ## Overview
 
 This guide documents the troubleshooting process for resolving Multi-Factor Authentication (MFA) issues by resetting a user's MFA registration in Microsoft Entra ID.
