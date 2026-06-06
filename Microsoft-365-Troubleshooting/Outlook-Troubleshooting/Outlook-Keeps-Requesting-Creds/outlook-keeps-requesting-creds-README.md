@@ -1,7 +1,7 @@
 # Outlook Keeps Requesting Credentials (MFA Loop) - Troubleshooting Guide
 
 ## Overview
-<img src="./authenticated.png" width="700">
+<img src="./mfa-auth2.png" width="700">
 This guide documents the troubleshooting process for resolving an issue where Microsoft Outlook continuously prompts a user for credentials and Multi-Factor Authentication (MFA), even after successful authentication.
 
 ---
