@@ -1,7 +1,7 @@
 # Microsoft Outlook Troubleshooting Guides
 
 ## Overview
-<img src="./micro_athenticator_app_setup.png" width="700">
+<img src="./outlook-main-page.png" width="700">
 This folder contains a collection of Microsoft Outlook troubleshooting guides based on common Help Desk and IT Support ticket scenarios. Each guide follows a structured troubleshooting methodology used in real-world enterprise environments, including:
 
 * User interview and information gathering
