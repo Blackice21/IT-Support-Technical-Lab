@@ -1,5 +1,5 @@
 # Microsoft PowerPoint – Embedded Media Issues
-<img src="./user-page.png" width="900">
+<img src="./embedded_error.png" width="900">
 ## Help Desk Troubleshooting Guide
 
 ### Ticket Example
