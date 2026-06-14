@@ -1,6 +1,6 @@
 
 # Microsoft PowerPoint – Missing Fonts
-
+<img src="./missing-fonts.png" width="800">
 ## Help Desk Troubleshooting Guide
 
 ### Ticket Example
