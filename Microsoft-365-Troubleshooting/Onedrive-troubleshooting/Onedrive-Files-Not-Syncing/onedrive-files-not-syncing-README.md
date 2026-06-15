@@ -1,5 +1,5 @@
 # Microsoft 365 Help Desk Ticket: OneDrive Not Syncing Files
-
+<img src="./onedrive-sync-pending-no-internet.png" width="900">
 ## Ticket Summary
 
 **Issue:** OneDrive is not syncing files between the user's computer and Microsoft 365.
@@ -54,7 +54,7 @@ If the files do not appear online, the files may not have uploaded successfully 
 ---
 
 ## 3. Check the OneDrive Sync Status
-
+<img src="./onedrive-sync-paused.png" width="800">
 1. On the user's Windows computer, look in the bottom-right system tray.
 2. Click the **OneDrive cloud icon**.
 3. Review the sync status.
