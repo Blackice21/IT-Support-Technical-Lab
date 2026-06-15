@@ -1,5 +1,5 @@
 # Microsoft 365 Help Desk Ticket: OneDrive Sign-In Issues
-
+<img src="./onedrive-no-signin.png" width="800">
 ## Ticket Summary
 
 **Issue:** User is unable to sign into OneDrive or OneDrive repeatedly prompts for credentials.
