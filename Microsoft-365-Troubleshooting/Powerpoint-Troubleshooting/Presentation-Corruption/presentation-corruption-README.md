@@ -1,6 +1,7 @@
 
 # Microsoft PowerPoint – Presentation Corruption
-
+<img src="./powerpoint_file_not_opening.png" width="900">
+<img src="./powerpoint-corrupted-file.png" width="900">
 ## Help Desk Troubleshooting Guide
 
 ### Ticket Example
