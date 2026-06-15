@@ -1,5 +1,5 @@
 # Microsoft OneDrive Troubleshooting Lab
-
+<img src="./onedrive-main-page.png" width="900">
 ## Overview
 
 This repository contains real-world Microsoft OneDrive support scenarios that can be encountered in a Microsoft 365 help desk environment.
