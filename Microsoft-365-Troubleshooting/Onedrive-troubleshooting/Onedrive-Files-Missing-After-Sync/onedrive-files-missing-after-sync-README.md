@@ -1,5 +1,6 @@
 # Microsoft 365 Help Desk Ticket: Files Missing After OneDrive Sync
-
+<img src="./onedrive-local-files-cloud-only-status.png" width="700">
+<img src="./onedrive-cloud-files.png" width="700">
 ## Ticket Summary
 
 **Issue:** User reports files are missing from OneDrive after synchronization.
@@ -13,6 +14,8 @@
 **Ticket Type:** Missing Files / Data Recovery
 **Priority:** High
 
+<img src="./ondrive-empty-folder-local.png" width="700">
+<img src="./ondrive-empty-folder.png" width="700">
 ---
 
 # 1. Gather Information from the User
@@ -92,7 +95,7 @@ If found, determine whether the file was moved or renamed.
 ---
 
 # 4. Check the OneDrive Recycle Bin
-
+<img src="./onedrive-recycle-bin.png" width="700">
 Many missing file incidents are accidental deletions.
 
 ## Recovery Steps
