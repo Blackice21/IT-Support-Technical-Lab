@@ -1,4 +1,7 @@
 # Microsoft Teams – Camera Not Working
+<img src="./camera-not-working.png" width="700">
+<img src="./camera-working.png" width="700">
+
 
 ## Help Desk Troubleshooting Guide
 
