@@ -330,7 +330,7 @@ to isolate the issue.
 ---
 
 # Step 11: Test Teams Web Version
-
+<img src="./audio-not-working-web-problem.png" width="700">
 Determine whether issue is desktop-app specific.
 
 ### Test
