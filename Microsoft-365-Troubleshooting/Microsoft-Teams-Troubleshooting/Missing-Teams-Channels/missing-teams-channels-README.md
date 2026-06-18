@@ -1,5 +1,6 @@
 # Microsoft Teams – Missing Teams or Channels
-
+<img src="./missing-channel.png" width="700">
+<img src="./shown-channel.png" width="700">
 ## Help Desk Troubleshooting Guide
 
 ### Ticket Example
