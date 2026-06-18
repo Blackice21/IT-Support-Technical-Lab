@@ -1,5 +1,5 @@
 # Microsoft Teams – Meeting Audio Issues
-
+<img src="./audio-switched-off.png" width="900">
 ## Help Desk Troubleshooting Guide
 
 ### Ticket Example
